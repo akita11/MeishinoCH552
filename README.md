@@ -1,12 +1,15 @@
 # MeishinoCH552
 
-![基板外形](MeishinoCH552_img.png)
+<img src="https://github.com/akita11/MeishinoCH552/MeishinoCH552_img.png" width="240px">
+
+<img src="https://github.com/akita11/MeishinoCH552/MeishinoCH552-a.jpg" width="240px">
+
+<img src="https://github.com/akita11/MeishinoCH552/MeishinoCH552-b.jpg" width="240px">
 
 つくった基板を名刺代わりに！
 
 基板の表や裏の空いているところに、自分の名前などをシルクで入れれば、オリジナル基板のできあがり。
 あとは製造発注して、名刺代わりに配りましょう。
-
 
 
 ## マイコンボードとしての使い方
