@@ -1,10 +1,10 @@
 # MeishinoCH552
 
-<img src="https://github.com/akita11/MeishinoCH552/MeishinoCH552_img.png" width="240px">
+<img src="https://github.com/akita11/MeishinoCH552/brob/main/MeishinoCH552_img.png" width="240px">
 
-<img src="https://github.com/akita11/MeishinoCH552/MeishinoCH552-a.jpg" width="240px">
+<img src="https://github.com/akita11/MeishinoCH552/brob/main/MeishinoCH552-a.jpg" width="240px">
 
-<img src="https://github.com/akita11/MeishinoCH552/MeishinoCH552-b.jpg" width="240px">
+<img src="https://github.com/akita11/MeishinoCH552/brob/main/MeishinoCH552-b.jpg" width="240px">
 
 つくった基板を名刺代わりに！
 
