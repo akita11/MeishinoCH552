@@ -12,7 +12,7 @@
 ## マイコンボードとしての使い方
 
 基板製造時に部品実装(PCBA)もいっしょに注文すれば、ArduinoIDEでプログラムを書けるマイコンボードとしても使えます。もちろん自分で部品をはんだ付けしてもOK。
-（[CH552duino](https://github.com/akita11/CH552duino)と同じ構成ですので、これの使い方を参照してください）
+（[CH552duino](https://github.com/akita11/CH552duino)と同じ構成ですので、これの使い方を参照してください。[使い方を含めた解説書](https://techbookfest.org/product/5803512929714176)もあります。）
 
 PCにつなぐUSB端子は、以下の3つのいずれかを使えます。
 
